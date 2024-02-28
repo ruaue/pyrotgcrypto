@@ -12,12 +12,12 @@ cryptographic algorithms Telegram requires, namely:
 
 ## Requirements
 
-- Python 3.7 or higher.
+- Python 3.12 or higher.
 
 ## Installation
 
 ``` bash
-$ pip3 install -U tgcrypto
+$ pip3 install -U pyrotgcrypto
 ```
 
 ## API
